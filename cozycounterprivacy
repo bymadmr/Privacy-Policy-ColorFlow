@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Cozy Counter</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #2c3e50; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 25px; }
+        p { margin-bottom: 15px; }
+        ul { margin-bottom: 15px; }
+        .contact-info { background: #f9f9f9; padding: 15px; border-radius: 5px; border-left: 5px solid #3498db; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p>This Privacy Policy informs you about how your personal data is collected, used, and protected within the scope of the <strong>Cozy Counter</strong> mobile application. Your security is important to us; therefore, the personal data you share with us is protected with sensitivity.</p>
+
+    <h2>1. Processing, Storage, and Deletion of Personal Data</h2>
+    <p>Your personal data is processed in accordance with the law and honesty rules, for legitimate purposes, and limited to the purpose for which they are processed. Necessary measures are taken to ensure that your data is kept accurate and up to date.</p>
+    <p>Your personal data, which is stored for the period stipulated in the relevant legislation or required for the purpose for which they are processed, is deleted or destroyed at the end of this period.</p>
+
+    <h2>2. Data Controller</h2>
+    <p>According to the Personal Data Protection laws, the data controller is the person who determines the purposes and methods of processing personal data.</p>
+    <div class="contact-info">
+        <strong>Developer:</strong> Muhammed Ali Demir<br>
+        <strong>Address:</strong> Mecidiye Mah / Sultanbeyli / İstanbul<br>
+        <strong>E-mail:</strong> <a href="mailto:devmalidemir@gmail.com">devmalidemir@gmail.com</a>
+    </div>
+
+    <h2>3. Collected Personal Data</h2>
+    <p>The personal data collected by this application may include:</p>
+    <ul>
+        <li>Device information (Model, OS version)</li>
+        <li>IP address</li>
+        <li>Unique device identifiers (for Advertising/Analytics)</li>
+    </ul>
+
+    <h2>4. Purposes of Data Processing</h2>
+    <p>Your personal data is processed for the purposes of providing services appropriate to the application's function, fulfilling legal obligations, improving service quality, communication, security, and sharing information with legal authorities when necessary. Your personal data will not be used for purposes other than those listed.</p>
+
+    <h2>5. Transfer of Data</h2>
+    <p>Your personal data will not be shared with third parties without your explicit consent, except for legal obligations. However, it may be shared with our service providers (e.g., Google AdMob, Firebase) and legal authorities to the extent necessary to provide the service and fulfill legal obligations.</p>
+
+    <h2>6. Legal Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Learn whether your personal data is processed.</li>
+        <li>Request information if your personal data has been processed.</li>
+        <li>Request correction of your personal data if it is incomplete or incorrectly processed.</li>
+        <li>Request the deletion or destruction of your personal data.</li>
+    </ul>
+    <p>For your applications regarding these rights, you can contact the data controller at <strong>devmalidemir@gmail.com</strong>.</p>
+
+    <h2>7. Services Used</h2>
+    <p>We use the following third-party services to enhance your experience:</p>
+    <ul>
+        <li><strong>Google AdMob:</strong> Used for displaying advertisements. AdMob may use device identifiers to show personalized ads.</li>
+        <li><strong>Google Analytics for Firebase:</strong> Used to analyze user behavior and application performance.</li>
+    </ul>
+
+    <h2>8. Consent and Validity</h2>
+    <p>Sharing your personal data with our application is entirely your choice. This Privacy Policy entered into force on <strong>25.03.2026</strong> and is updated when necessary.</p>
+
+</body>
+</html>
